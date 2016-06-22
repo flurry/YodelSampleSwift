@@ -20,7 +20,7 @@ Yodel Travels is a recognized iOS sample app built in Swift using Yahoo’s Flur
 
     * Log events
 
-* Other useful learnings (not directly 
+* Other useful learnings 
 
     * Pulling content via the Tumblr API and NSURL requests
 
